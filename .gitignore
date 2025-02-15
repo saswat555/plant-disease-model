@@ -1,0 +1,12 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore virtual environment (rename 'env' if your environment has a different name)
+env/
+venv/
+.venv/
+tuner_results/
